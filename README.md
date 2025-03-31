@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer with X years of experience crafting web and mobile applications. I love:
+I'm a Software Engineer with +10 years of experience crafting web and mobile applications. I love:
 
 - 🔨 Building tools that simplify developers' lives
 - 🧩 Solving complex problems with creative solutions
